@@ -1,0 +1,4 @@
+sr.np,name,marks,department
+1,Manvi,89.9,Medical
+2,Lekhani,98.5,Engineer
+3,Akansha,87.7,Medical
